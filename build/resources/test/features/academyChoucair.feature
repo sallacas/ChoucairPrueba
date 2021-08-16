@@ -9,7 +9,7 @@
       | 1000017828  | Choucair2021* |
       When he search for the course on the choucair academy platform
       | strCourse               |
-      | Metodología Bancolombia |
+      | AiU Certified Tester in Artificial Intelligence (CTAI)r |
       Then he finds the course called
       | strCourse               |
-      | Metodología Bancolombia |
+      | AiU Certified Tester in Artificial Intelligence (CTAI) |
